@@ -1,6 +1,6 @@
 IMPORTANT: Make sure you have downloaded and installed 
-nodejs : https://nodejs.org/en/
-vscode : https://code.visualstudio.com/ (if you dont already have a text editor)
+[nodejs] : https://nodejs.org/en/
+[vscode] : https://code.visualstudio.com/ (if you dont already have a text editor)
 
 Download this as a .zip, extract the files on your computer and remember where.
 
